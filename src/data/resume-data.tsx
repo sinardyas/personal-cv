@@ -23,11 +23,11 @@ export const RESUME_DATA = {
   name: "Sinar Dyas",
   initials: "SD",
   location: "Tangerang, Indonesia",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/Cikupa",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Software Engineer who loves to explore new things",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a Software Engineer, I have successfully taken multiple products from 0 to 1. I have 2 years experience leading a teams. I have over 6 years of experience in working both remotely and directly with companies based in South-east Asia.",
   avatarUrl: "https://avatars.githubusercontent.com/u/40920618?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2023",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Led developer teams in designing and implementing software solutions. Created boilerplate to enable the rapid delivery of high-quality products in a fast-paced environment. Created a drive thru' PoS system with Laravel, a metaverse backend system with micro-services architecture with NestJs, report generator with Golang.",
     },
     {
       company: "Meteor.id",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
       start: "2018",
       end: "2021",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Created a cross platform mobile apps with React Native, micro-services backend systems with NodeJs and back office dashboard with Angular.",
     }
   ],
   skills: [
@@ -93,7 +93,9 @@ export const RESUME_DATA = {
     "React Native",
     "Angular",
     "Docker",
-    "MySQL/PostgreSQL"
+    "MySQL/PostgreSQL",
+    "Redis",
+    "AWS"
   ],
   projects: [
     {

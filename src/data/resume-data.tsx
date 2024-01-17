@@ -27,9 +27,9 @@ export const RESUME_DATA = {
   about:
     "Software Engineer who loves to explore new things",
   summary:
-    "As a Software Engineer, I have successfully taken multiple products from 0 to 1. I have 2 years experience leading a teams. I have over 6 years of experience in working both remotely and directly with companies based in South-east Asia.",
+    "As a Software Engineer, I have successfully taken multiple products from 0 to 1. I have 2 years experience leading a teams and over 6 years of experience in working both remotely and directly with companies based in South-east Asia, providing effective software solutions for various industries.",
   avatarUrl: "https://avatars.githubusercontent.com/u/40920618?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://sinardyas.vercel.app",
   contact: {
     email: "sinardyas96@gmail.com",
     tel: "+6282227777619",
@@ -95,7 +95,9 @@ export const RESUME_DATA = {
     "Docker",
     "MySQL/PostgreSQL",
     "Redis",
-    "AWS"
+    "AWS",
+    "Solidity",
+    "EtherJs"
   ],
   projects: [
     {

@@ -69,7 +69,7 @@ export default function Page() {
                 >
                   <a target="_blank" href={social.url}>
                     <social.icon className="size-4" />
-                  </a>
+                  </a>   
                 </Button>
               ))}
             </div>

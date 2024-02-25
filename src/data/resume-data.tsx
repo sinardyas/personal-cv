@@ -61,13 +61,24 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Soechi Group",
+      link: "https://soechi.com",
+      badges: ["Hybrid"],
+      title: "Tech Lead",
+      logo: ParabolLogo,
+      start: "2024",
+      end: "Present",
+      description:
+        "Led developer teams in designing and implementing software solutions. Created boilerplate to enable the rapid delivery of high-quality products in a fast-paced environment. ",
+    },
+    {
       company: "Meteor.id",
       link: "https://meteor.id",
       badges: ["Hybrid"],
       title: "Lead Software Engineer",
       logo: ParabolLogo,
       start: "2021",
-      end: "2023",
+      end: "2024",
       description:
         "Led developer teams in designing and implementing software solutions. Created boilerplate to enable the rapid delivery of high-quality products in a fast-paced environment. Created a drive thru' PoS system with Laravel, a metaverse backend system with micro-services architecture with NestJs, report generator with Golang.",
     },

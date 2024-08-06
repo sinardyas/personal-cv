@@ -110,48 +110,27 @@ export const RESUME_DATA = {
     "Solidity",
     "EtherJs"
   ],
-  projects: [
-    {
-      title: "Multi Ocean Shipyard",
-      techStack: [
-        "Company Profile",
-        "Wix"
-      ],
-      description: "Comprehensive shipyard solution",
-      link: {
-        label: "multioceanshipyard.com",
-        href: "https://www.multioceanshipyard.com/",
-      },
-    },
-    {
-      title: "Olympichamp Website",
-      techStack: ["Side Project", "Laravel", "PHP"],
-      description:
-        "Landing page for olympichamp",
-      link: {
-        label: "olympichamp.com",
-        href: "https://helloolympichamp.wixstudio.io/my-site",
-      },
-    },
-    {
-      title: "Olympichamp Dashboard",
-      techStack: ["Side Project", "Laravel", "PHP"],
-      description:
-        "A Dashboard for managing class schedule",
-      link: {
-        label: "dev-dashboard.olympichamp.com",
-        href: "https://dev-dashboard.olympichamp.com",
-      },
-    },
-    {
-      title: "Lazora Commerce",
-      techStack: ["Side Project", "NextJs", "TypeScript"],
-      description:
-        "A Commerce for electronic stuff",
-      link: {
-        label: "dev-dashboard.olympichamp.com",
-        href: "https://lazora.vercel.app/",
-      },
-    }
-  ],
+  projects: []
+  // projects: [
+  //   {
+  //     title: "Olympichamp Website",
+  //     techStack: ["Side Project", "Laravel", "PHP"],
+  //     description:
+  //       "Landing page for olympichamp",
+  //     link: {
+  //       label: "olympichamp.com",
+  //       href: "https://helloolympichamp.wixstudio.io/my-site",
+  //     },
+  //   },
+  //   {
+  //     title: "Olympichamp Dashboard",
+  //     techStack: ["Side Project", "Laravel", "PHP"],
+  //     description:
+  //       "A Dashboard for managing class schedule",
+  //     link: {
+  //       label: "dev-dashboard.olympichamp.com",
+  //       href: "https://dev-dashboard.olympichamp.com",
+  //     },
+  //   }
+  // ],
 } as const;
